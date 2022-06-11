@@ -51,7 +51,7 @@ module.exports = {
   entry: './path/to/my/entry/file.js',
 }
 ```
-[practiceentry]: https://github.com/wnsrl1204/Webpack-practice/Entry.md
+[practiceentry]: https://github.com/wnsrl1204/Webpack-practice/blob/main/Entry.md
 [Entry 더보기][practiceentry]
 
 
@@ -77,7 +77,7 @@ module.exports = {
 > 
 > <code>__dirname</code>은 Node 전역변수이다.
 
-[practiceoutput]: https://github.com/wnsrl1204/Webpack-practice/Output.md
+[practiceoutput]: https://github.com/wnsrl1204/Webpack-practice/blob/main/Output.md
 [Output 더보기][practiceoutput]
 
 
@@ -113,7 +113,7 @@ module.exports = {
 공식문서 설명
 > "이봐 webpack 컴파일러, require ()/import 문 내에서 '.txt' 파일로 확인되는 경로를 발견하면 번들에 추가하기 전에 raw-loader를 사용하여 변환해."
 
-[practiceloaders]: https://github.com/wnsrl1204/Webpack-practice/Loaders.md
+[practiceloaders]: https://github.com/wnsrl1204/Webpack-practice/blob/main/Loaders.md
 [Loaders 더보기][practiceloaders]
 
 
@@ -143,7 +143,7 @@ module.exports = {
 
 webpack은 설치 없이 사용할 수 있는 다양한 플러그인을 제공한다.
 
-[practiceplugins]: https://github.com/wnsrl1204/Webpack-practice/Plugins.md
+[practiceplugins]: https://github.com/wnsrl1204/Webpack-practice/blob/main/Plugins.md
 [Plugins 더보기][practiceplugins]
 
 
