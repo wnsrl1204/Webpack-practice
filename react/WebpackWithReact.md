@@ -1,4 +1,4 @@
-# React에서 Webpack
+# React + Babel + Webpack
 ## 설치
 ```
 npm i -D @babel/preset-env @babel/preset-react babel-loader html-webpack-plugin style-loader mini-css-extract-plugin css-loader webpack webpack-cli webpack-dev-server
